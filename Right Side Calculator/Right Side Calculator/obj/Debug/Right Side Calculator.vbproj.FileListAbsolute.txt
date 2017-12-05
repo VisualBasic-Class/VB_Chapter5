@@ -1,0 +1,10 @@
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\bin\Debug\Right Side Calculator.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\bin\Debug\Right Side Calculator.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\bin\Debug\Right Side Calculator.pdb
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\bin\Debug\Right Side Calculator.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\obj\Debug\WindowsApplication1.RightTriangleCalculator.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\obj\Debug\Right Side Calculator.vbproj.GenerateResource.Cache
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\obj\Debug\Right Side Calculator.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\obj\Debug\Right Side Calculator.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Right Side Calculator\Right Side Calculator\obj\Debug\Right Side Calculator.pdb
