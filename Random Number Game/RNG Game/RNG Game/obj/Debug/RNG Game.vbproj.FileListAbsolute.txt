@@ -1,0 +1,10 @@
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\bin\Debug\RNG Game.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\bin\Debug\RNG Game.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\bin\Debug\RNG Game.pdb
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\bin\Debug\RNG Game.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\obj\Debug\WindowsApplication1.GuessNum.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\obj\Debug\RNG Game.vbproj.GenerateResource.Cache
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\obj\Debug\RNG Game.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\obj\Debug\RNG Game.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\RNG Game\RNG Game\obj\Debug\RNG Game.pdb
